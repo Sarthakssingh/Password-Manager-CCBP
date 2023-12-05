@@ -1,6 +1,6 @@
 In this project, let's build a **Password Manager** by applying the concepts we have learned till now.
 
-Demo Link: [LINK](password_manager.ccbp.tech)
+Demo Link: [LINK](https://paswrdomngr.ccbp.tech)
 
 ### Refer to the image below:
 
